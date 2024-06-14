@@ -1,209 +1,5 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<title>SVU | Homepage</title>
-<!-- SWIPER -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
-<!-- <script src="js/marquee.js"></script> -->
-<link rel="stylesheet" href="css/owl.carousel.min.css">
-<!-- Bootstrap CSS  -->
-<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
-<!-- Our Custom CSS -->
-<link rel="stylesheet" href="css/style.css">
-<!-- Media Queries CSS -->
-<link rel="stylesheet" href="css/media.css">
-
-</head>
-
-<body>
-	<div class="stickyBtn stickyRight">
-		<a href="#" class="navBtn">ENQUIRE NOW</a>
-	</div>
-	<div class="stickyBtn stickyLeft">
-		<a href="#" class="navBtn">ADMISSION OPEN</a>
-	</div>
-	<header class="mainHeader">
-		<div class="topBar">
-			<div class="container">
-				<div class="topBarInr">
-					<div class="topBx">
-						<ul class="list-inline contactList">
-							<li><a href="mailto:deanhumanities@svu.edu.in"><img src="images/msg.png" alt=""><span>deanhumanities@svu.edu.in</span></a></li>
-							<li><a href="tel:+91-7017130800"><img src="images/call.png" alt=""><span>+91-7017130800 (Ph.D) +91-7248500071</span></a></li>
-						</ul>
-					</div>
-					<div class="topBx desktop">
-						<ul class="list-inline">
-							<li><a href="#">SVU Plus</a></li>
-							<li><a href="#">Student Login</a></li>
-							<li><a href="#">Libraries</a></li>
-							<li><a href="#">Career</a></li>
-							<li><a href="#">SVU Infrastructure</a></li>
-							<li><a href="#">Announcements</a></li>
-							<li><a href="#">APPLY NOW</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<nav class="navbar navbar-light navbar-expand-lg" id="myMenu">
-	        <div class="container">
-				<a class="navbar-brand p-0" href="index.html">
-					<img src="images/logo.png" alt="" title="">
-				</a>
-				<button class="navbar-toggler">
-					<img src="images/bars.png" alt=""/>
-				</button>
-				<div class="overLay"></div>
-	            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-					<button class="hidden-xs mobile cross-toggler">
-						<img src="images/cross-button.png" alt="" />
-					</button>
-		            <ul class="navbar-nav mainNavList ml-auto">
-						<li class="mobile">
-							<img src="images/logo.png" alt="">
-						</li>
-		                <li class="nav-item dropdown">
-	                		<a class="nav-link" href="#">About</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<!-- <i class="fas fa-caret-down menuToggleIco"></i> -->
-	                		<ul class="dropMenu">
-	                			<li>
-									<a href="#">Establishment</a>
-								</li>
-	                			<li><a href="#">Vision & Mission</a></li>
-	                			<li><a href="#">Leadership</a></li>
-	                			<li><a href="#">Advisory Board</a></li>
-	                			<li><a href="#">Organogram</a></li>
-	                			<li><a href="#">Act& staftuter Governance</a></li>
-	                			<li><a href="#">Awards & Recognitions</a></li>
-	                			<li><a href="#">Policies</a></li>
-	                			<li><a href="#">JDP (2023-2033)</a></li>
-	                			<li><a href="#">Annual Report</a></li>
-	                		</ul>
-		                </li>
-		                <li class="nav-item dropdown">
-		                    <a class="nav-link" href="#">Academics</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<ul class="dropMenu">
-								<li><a href="#">School</a></li>
-								<li class="dropdown">
-									<a href="#">Program</a>
-									<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-									<ul class="dropMenu">
-										<li><a href="#">UG </a></li>
-										<li><a href="#">PG </a></li>
-										<li><a href="#">DIPLOMA</a></li>
-										<li><a href="#">CERTIFICATE </a></li>
-										<li><a href="#">PHD </a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#">Examination</a>
-									<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-									<ul class="dropMenu">
-										<li><a href="#">COE </a></li>
-										<li><a href="#">Exami.Committuy </a></li>
-										<li><a href="#">Ex Ordinance</a></li>
-										<li><a href="#">E. C.Minutes of Meeting </a></li>
-										<li><a href="#">ex. calender  </a></li>
-										<li><a href="#">ex. Notices </a></li>
-										<li><a href="#">ex. grievance mechanism</a></li>
-										<li class="dropdown">
-											<a href="#">Result declaration</a>
-											<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-											<ul class="dropMenu">
-												<li><a href="#">sem / year results </a></li>
-												<li><a href="#">convocation</a></li>
-											</ul>
-										</li>
-										<li><a href="#">annual report</a></li>
-										<li><a href="#">nad </a></li>
-										<li><a href="#">downloads  </a></li>
-									</ul>
-								</li>
-								<li><a href="#">faculty resources </a></li>
-								<li><a href="#">teaching and learning  </a></li>
-								<li><a href="#">student mentoring</a></li>
-								<li><a href="#">student centric practices </a></li>
-								<li><a href="#">value added courses </a></li>
-								<li><a href="#">nep implementation </a></li>
-							</ul>
-		                </li>
-		                <li class="nav-item dropdown">
-		                    <a class="nav-link" href="#">RESOURCES</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<ul class="dropMenu">
-								<li><a href="#">library </a></li>
-								<li><a href="#">iqac</a></li>
-								<li><a href="#">nep</a></li>
-								<li><a href="#">committies</a></li>
-								<li><a href="#">tranning and palcement </a></li>
-								<li><a href="#">Skill enhancement Conte</a></li>
-								<li><a href="#">E-content </a></li>
-							</ul>
-		                </li>
-						<li class="nav-item dropdown">
-		                    <a class="nav-link" href="#">ADMISSIONS</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<ul class="dropMenu">
-								<li><a href="#">direct admission </a></li>
-								<li><a href="#">admission policy </a></li>
-								<li><a href="#">reservation guildlines ( optional )</a></li>
-								<li><a href="#">admission criteria / process </a></li>
-								<li><a href="#">program fee structure  </a></li>
-								<li><a href="#">fee payment options</a></li>
-								<li><a href="#">educational roll asistance</a></li>
-							</ul>
-		                </li>
-						<li class="nav-item dropdown">
-		                    <a class="nav-link" href="#">RESEARCH</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<ul class="dropMenu">
-								<li><a href="#">research facilities  </a></li>
-								<li><a href="#">research policy </a></li>
-								<li><a href="#">seed moeny </a></li>
-								<li><a href="#">research projects</a></li>
-								<li><a href="#">research publications  </a></li>
-								<li><a href="#">phd</a></li>
-								<li><a href="#">research awards</a></li>
-							</ul>
-		                </li>
-						<li class="nav-item dropdown">
-		                    <a class="nav-link" href="#">STUDENT</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<ul class="dropMenu">
-								<li><a href="#">student counsil </a></li>
-								<li><a href="#">student club</a></li>
-								<li><a href="#">alumni association </a></li>
-								<li><a href="#">life & svu</a></li>
-								<li><a href="#">welfare</a></li>
-							</ul>
-		                </li>
-		                <li class="nav-item dropdown">
-		                    <a class="nav-link" href="#">CONTACT</a>
-							<img src="images/angle-arrow-down.png" alt="" class="menuToggleIco" />
-							<ul class="dropMenu">
-								<li><a href="#">office directory </a></li>
-								<li><a href="#">Grievances</a></li>
-								<li><a href="#">career</a></li>
-							</ul>
-		                </li>
-						<!-- <li class="nav-item">
-		                    <a class="nav-link navBtn" href="#">Contact us</a>
-		                </li> -->
-		            </ul>
-	            </div>
-	        </div>
-      </nav>
-	</header>
+<?php include 'includes/header.php'; ?>
+<?php include 'includes/navbar.php'; ?>
 	<!--=========banner-Start=========-->
 	<section class="banner">
 		<video autoplay muted loop>
@@ -386,100 +182,78 @@
 			<div class="row">
 				<div class="col-lg-12 col-12">
 					<h2 class="sectionHeading text-center whiteColor mb-4">Our Schools</h2>
-					<!-- <div class="owl-carousel fiveSlider">
-						<div class="item">
-							<div class="bx">
-								<img src="images/medical-science.png" alt="">
-								<h3>Medical Sciences</h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="bx">
-								<img src="images/medical-science.png" alt="">
-								<h3>Medical Sciences</h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="bx">
-								<img src="images/medical-science.png" alt="">
-								<h3>Medical Sciences</h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="bx">
-								<img src="images/medical-science.png" alt="">
-								<h3>Medical Sciences</h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="bx">
-								<img src="images/medical-science.png" alt="">
-								<h3>Medical Sciences</h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="bx">
-								<img src="images/medical-science.png" alt="">
-								<h3>Medical Sciences</h3>
-							</div>
-						</div>
-					</div> -->
 					<div class="swiper facultySwiper py-5">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/med.png" alt="Allied Health Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Paramedical Sciences</h3>
-                                    <a href="index.html"></a>
+                                    <img src="images/med.png" alt="Medical Sciences" class="facultyImg">
+                                    <a href="medical-sciences.php"><h3 class="facultyName">Medical Sciences</h3></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/Paramedical-Sciences.png" alt="Agricultural Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Paramedical Sciences</h3>
-                                    <a href="./agri/index.html"></a>
+                                    <img src="images/Paramedical-Sciences.png" alt="Paramedical Sciences" class="facultyImg">
+                                    <a href="paramedical-sciences.php"><h3 class="facultyName">Paramedical Sciences</h3></a>
                                 </div>
                             </div>
 							<div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/Nursing.png" alt="Allied Health Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Nursing</h3>
-                                    <a href="index.html"></a>
+                                    <img src="images/Nursing.png" alt="Nursing" class="facultyImg">
+                                    <a href="nursing.php"><h3 class="facultyName">Nursing</h3></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/dna.png" alt="Agricultural Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Paramedical Sciences</h3>
-                                    <a href="./agri/index.html"></a>
+                                    <img src="images/dna.png" alt="Pharmaceutical Sciences" class="facultyImg">
+                                    <a href="pharmaceutical-sciences.php"><h3 class="facultyName">Pharmaceutical Sciences</h3></a>
                                 </div>
                             </div>
 							<div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/med.png" alt="Allied Health Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Paramedical Sciences</h3>
-                                    <a href="index.html"></a>
+                                    <img src="images/med.png" alt="Applied Sciences" class="facultyImg">
+                                    <a href="applied-sciences.php"><h3 class="facultyName">Applied Sciences</h3></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/Paramedical-Sciences.png" alt="Agricultural Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Paramedical Sciences</h3>
-                                    <a href="./agri/index.html"></a>
+                                    <img src="images/Paramedical-Sciences.png" alt="Commerce & Management" class="facultyImg">
+                                    <a href="commerce-management.php"><h3 class="facultyName">Commerce & Management</h3></a>
                                 </div>
                             </div>
 							<div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/Nursing.png" alt="Allied Health Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Nursing</h3>
-                                    <a href="index.html"></a>
+                                    <img src="images/Nursing.png" alt="Engineering & Technology" class="facultyImg">
+                                    <a href="engineering-technology.php"><h3 class="facultyName">Engineering & Technology</h3></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="facultyBox bx">
-                                    <img src="images/medical-science.png" alt="Agricultural Sciences" class="facultyImg">
-                                    <h3 class="facultyName">Agricultural Sciences</h3>
-                                    <a href="./agri/index.html"></a>
+                                    <img src="images/medical-science.png" alt="Human Languages & Social Sciences" class="facultyImg">
+                                    <a href="human-languages.php"><h3 class="facultyName">Human Languages & Social Sciences</h3></a>
+                                </div>
+                            </div>
+							<div class="swiper-slide">
+                                <div class="facultyBox bx">
+                                    <img src="images/medical-science.png" alt="Education" class="facultyImg">
+                                    <a href="education.php"><h3 class="facultyName">Education</h3></a>
+                                </div>
+                            </div>
+							<div class="swiper-slide">
+                                <div class="facultyBox bx">
+                                    <img src="images/medical-science.png" alt="Library & Information Sciences" class="facultyImg">
+                                    <a href="library.php"><h3 class="facultyName">Library & Information Sciences</h3></a>
+                                </div>
+                            </div>
+							<div class="swiper-slide">
+                                <div class="facultyBox bx">
+                                    <img src="images/medical-science.png" alt="Law & Jurisprudence" class="facultyImg">
+                                    <a href="law-jurisprudence.php"><h3 class="facultyName">Law & Jurisprudence</h3></a>
+                                </div>
+                            </div>
+							<div class="swiper-slide">
+                                <div class="facultyBox bx">
+                                    <img src="images/medical-science.png" alt="Agriculture" class="facultyImg">
+                                    <a href="agriculture.php"><h3 class="facultyName">Agriculture</h3></a>
                                 </div>
                             </div>
 						</div>
@@ -816,120 +590,4 @@
 			</div> -->
 		</div>
 	</section>
-	<footer class="footer">
-		<div class="container">
-			<div class="footerWrp">
-				<div class="footerBx footerLogo">
-					<img src="images/footer-logo.png" alt="" />
-					<div class="d-block mb-3">
-						<h4>Address :</h4>
-						<p>Rajabpur, NH-24, Venkateshwara Nagar, <br>
-							Gajraula, Uttar Pradesh 244236</p>
-					</div>
-					<div class="d-block mb-3">
-						<h4>Phone :</h4>
-						<p><a href="tel:+91-7248500071">+91-7248500071, 1800 103 9416</a> </p>
-					</div>
-					<div class="d-block mb-3">
-						<h4>Ph.D Enquiry :</h4>
-						<p><a href="tel:+91-7017130800">+91-7017130800</a></p>
-					</div>
-					<div class="d-block mb-3">
-						<h4>Email :</h4>
-						<p><a href="tel:+91-7017130800">+91-7017130800</a></p>
-					</div>
-					<div class="d-block mb-3">
-						<h4>Ph.D Enquiry :</h4>
-						<p><a href="mailto:info@svu.edu.in">info@svu.edu.in, studentgrievances@svu.edu.in</a></p>
-					</div>
-					<div class="d-block mb-3">
-						<h4>Follow Us :</h4>
-						<div class="social">
-							<a href="#"><img src="images/linkd.png" alt=""/></a>
-							<a href="#"><img src="images/insta.png" alt=""/></a>
-							<a href="#"><img src="images/fb.png" alt=""/></a>
-							<a href="#"><img src="images/x.png" alt=""/></a>
-							<a href="#"><img src="images/whats.png" alt=""/></a>
-							<a href="#"><img src="images/youtube.png" alt=""/></a>
-						</div>
-					</div>
-				</div>
-				<div class="footerBx">
-					<h3>SCHOOLS</h3>
-					<ul>
-						<li><a href="#">Medical Sciences</a></li>
-						<li><a href="#">Paramedical Sciences</a></li>
-						<li><a href="#">Nursing</a></li>
-						<li><a href="#">Applied Sciences</a></li>
-						<li><a href="#">Commerce & Management</a></li>
-						<li><a href="#">Engineering & Technology</a></li>
-						<li><a href="#">Human Languages & Social Sciences</a></li>
-						<li><a href="#">Education</a></li>
-						<li><a href="#">Library & Information Sciences</a></li>
-						<li><a href="#">Law & Jurisprudence</a></li>
-						<li><a href="#">Agriculture</a></li>
-					</ul>
-				</div>
-				<div class="footerBx">
-					<h3>ACADEMICS</h3>
-					<ul>
-						<li><a href="#">Medical Sciences</a></li>
-						<li><a href="#">Paramedical Sciences</a></li>
-						<li><a href="#">Nursing</a></li>
-						<li><a href="#">Applied Sciences</a></li>
-						<li><a href="#">Commerce & Management</a></li>
-						<li><a href="#">Engineering & Technology</a></li>
-						<li><a href="#">Human Languages & Social Sciences</a></li>
-						<li><a href="#">Education</a></li>
-						<li><a href="#">Library & Information Sciences</a></li>
-						<li><a href="#">Law & Jurisprudence</a></li>
-						<li><a href="#">Agriculture</a></li>
-					</ul>
-				</div>
-				<div class="footerBx">
-					<h3>Quick Links</h3>
-					<ul>
-						<li><a href="#">Medical Sciences</a></li>
-						<li><a href="#">Paramedical Sciences</a></li>
-						<li><a href="#">Nursing</a></li>
-						<li><a href="#">Applied Sciences</a></li>
-						<li><a href="#">Commerce & Management</a></li>
-						<li><a href="#">Engineering & Technology</a></li>
-						<li><a href="#">Human Languages & Social Sciences</a></li>
-						<li><a href="#">Education</a></li>
-						<li><a href="#">Library & Information Sciences</a></li>
-						<li><a href="#">Law & Jurisprudence</a></li>
-						<li><a href="#">Agriculture</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<div class="copyright">@Copyright 2022. All Rights Reserved.</div>
-	
-<!-- jQuery -->
-<script src="js/jquery.min.js"></script>
-<!-- Bootstrap JS -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.5/swiper-bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
-<script>
-	$('.marquee').marquee({
-    //speed in milliseconds of the marquee
-    duration: 7000,
-    //gap in pixels between the tickers
-    gap: 10,
-    //time in milliseconds before the marquee will start animating
-    delayBeforeStart: 0,
-    //'left' or 'right'
-    direction: 'left',
-    //true or false - should the marquee be duplicated to show an effect of continues flow
-    duplicated: true
-});
-	</script>
-	<script src="js/local.js"></script>
-</body>
-
-</html>
+<?php include 'includes/footer.php'; ?>
