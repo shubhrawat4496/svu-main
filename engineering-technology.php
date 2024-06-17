@@ -18,9 +18,20 @@
 	<!--=========banner-End=========-->
 	<section class="customSec pt-4">
 		<div class="container">
-			<p class="para">The School of Engineering & Technology (SET) at Shri Venkateshwara University is known for its academic excellence and innovation, being the largest department within the university. SET has rapidly grown to become one of the leading engineering institutions in Uttar Pradesh and India since its establishment. With the nation's economy and global manufacturing sector expanding, SET has played a significant role in contributing to this development through its advanced engineering programs. The range of courses, including diplomas, undergraduate and postgraduate degrees, is carefully formulated to meet the evolving needs of the industry. SET is acknowledged for its holistic approach to engineering education, providing a curriculum that combines theoretical knowledge with practical application to yield graduates who are academically proficient and industry-prepared. The faculty at SET is highly qualified and experienced, dedicated to ensuring student success by using innovative teaching methodologies integrating academic concepts with real-world industry practices. These educators ensure that students are adept at applying engineering skills in practical settings. Collaborations with prominent management organizations and industries further reinforce the commitment to producing graduates ready for industry roles, offering students ample opportunities for internships and placements in the engineering and technology sectors. SET boasts state-of-the-art infrastructure, including modern classrooms, well-equipped laboratories, and an extensive library, culminating in an enriching learning environment. There is a strong focus on research and innovation, with students being encouraged to engage in projects that push the boundaries of engineering knowledge. SET is more than an educational institution; it is a dynamic community where upcoming engineers are cultivated. The programs cover a broad spectrum of disciplines, guaranteeing that the graduates are adaptable, creative, and equipped to confront the demands of a global engineering environment. The School of Engineering & Technology at Shri Venkateshwara University embodies the epitome of engineering education. You are invited to join in this expedition of exploration and professional development, where your engineering ambitions will be nurtured, tested, and actualized, preparing you to become the pioneers of the future technological world.</p>
+			<p class="para">The School of Engineering &amp; Technology (SET) at Shri Venkateshwara University is a renowned department, known for its academic excellence and innovation. As the largest department in our institution, SET has emerged as a leading engineering institution in Uttar Pradesh and India, offering a comprehensive range of diplomas, undergraduate, and postgraduate degrees.</p>
+			<h2 class="sectionHeadingInner">Vision</h2>	
+			<p class="para">Our vision is to be a hub of engineering education and innovation, producing graduates who are not only academically proficient but also industry-ready. We aim to contribute significantly to the nation's economy and global manufacturing sector by providing advanced engineering programs that meet the evolving needs of the industry.</p>
+			<h2 class="sectionHeadingInner">Mission</h2>
+			<ul class="para">
+				<li>Provide a holistic approach to engineering education that blends theoretical knowledge with practical application.</li>
+				<li>Equip graduates with the skills and competencies required to excel in various engineering roles in the industry.</li>
+				<li>Foster a culture of research and innovation, encouraging students to engage in projects that push the boundaries of engineering knowledge.</li>
+				<li>Forge strong collaborations with management organizations and industries to enhance opportunities for internships and placements.</li>
+				<li>Cultivate a dynamic community of engineers who are adaptable, creative, and prepared to confront the challenges of the global engineering environment.</li>
+			</ul>
 		</div>
 	</section>
+	
 	<section class="customSec pt-0">
 		<div class="container">
 			<h2 class="sectionHeading mb-5">Engineering Degrees</h2>

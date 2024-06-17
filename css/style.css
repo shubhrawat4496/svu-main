@@ -339,6 +339,11 @@ input, button { outline: none !important; box-shadow: none;  }
     font-weight: 700;
     color: #763140;
 }
+.sectionHeadingInner {
+    font-size: 25px;
+    font-weight: 700;
+    color: #763140;
+}
 section.banner video {
     width: 100%;
     height: calc(100vh - 140px);

@@ -241,7 +241,7 @@
 							<div class="swiper-slide">
                                 <div class="facultyBox bx">
                                     <img src="images/medical-science.png" alt="Library & Information Sciences" class="facultyImg">
-                                    <a href="library.php"><h3 class="facultyName">Library & Information Sciences</h3></a>
+                                    <a href="school-library.php"><h3 class="facultyName">Library & Information Sciences</h3></a>
                                 </div>
                             </div>
 							<div class="swiper-slide">

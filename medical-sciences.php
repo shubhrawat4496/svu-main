@@ -18,127 +18,18 @@
 	<!--=========banner-End=========-->
 	<section class="customSec pt-4">
 		<div class="container">
-			<p class="para">
-			Venkateshwara Institute of Medical Sciences (VIMS) consisting of the Best Medical Colleges in India and a 1200+ bedded hospital was established in 2016 as one of the constituent units of Shri Venkateshwara University in Gajraula, Dist. Amroha, UP. It is promoted by Shri Bankey Bihari Educational & Welfare Trust, one of the Best Medical Colleges in Uttar Pradesh (UP). VIMS is the brain child of the dynamic Founder and Chancellor of Shri Venkateshwara University, Uttar Pradesh, Dr. Sudhir Giri His vision and mission has been to provide education on par with international standards to equip medical graduates with skills to ably serve the global community, Top Medical University in Uttar Pradesh (UP). His untiring and dedicated endeavor to provide the state of the art medical education in the country had culminated in the establishment of VIMS, make us the Best Medical Colleges in Moradabad. The hospital attached to this medical college is extending medical facility to the poor and undefprivileged society of Amroha district, one of the Top Medical University in India.</p>
-			<p>VIMS started functioning in 2016 by admitting its rst batch of medical students in 2016 against its sanctioned strength of 150 students, Top Medical University in Moradabad. VIMS is having all departments stipulated by MCI with state of art facilities
-			</p>
-		</div>
-	</section>
-	<section class="customSec pt-0">
-		<div class="container">
-			<h2 class="sectionHeading mb-5">Engineering Degrees</h2>
-			<div class="inrContentWrp">
-				<h3 class="text-right">B.Tech</h3>
-				<div class="inrContentThumb">
-					<img src="images/DSC_4230.png" alt="" />
-				</div>
-				<div class="inrContent">
-					<h4>B.Tech : 4 years (8 Semesters)</h4>
-					<ul>
-						<li>B.Tech Civil Engineering</li>
-						<li>B.Tech Computer Science Engineering</li>
-						<li>B.Tech Mechanical Engineering</li>
-						<li>B.Tech Electrical Engineering</li>
-						<li>B Tech Electronics & Communication Engineering</li>
-						<li>B.Tech Information Technology</li>
-					</ul>
-					<h4>B.Tech. (Lateral Entry) : 3 years (6 Semesters)</h4>
-					<ul>
-						<li>B.Tech Civil Engineering</li>
-						<li>B.Tech Computer Science Engineering</li>
-						<li>B.Tech Mechanical Engineering</li>
-						<li>B.Tech Electrical Engineering</li>
-						<li>B Tech Electronics & Communication Engineering</li>
-						<li>B.Tech Information Technology</li>
-					</ul>
-					<a class="whiteBtn" href="#">View All Degrees & Diplomas </a>
-				</div>
-			</div>
-			<div class="inrContentWrp liteContentWrp">
-				<h3 class="text-left">M.Tech.</h3>
-				<div class="inrContent">
-					<h4>M.Tech : 2 years (4 Semesters)</h4>
-					<ul>
-						<li>Civil Engineering (Highway)</li>
-						<li>Structure, Environment</li>
-						<li>Information Technology (IT)</li>
-						<li>Computer Science</li>
-						<li>Electronics &Communication Engineering(EC Core, VLSI)</li>
-						<li>Mechanical Engineering(Thermal, Production, Mechanical Core)</li>
-						<li>Electrical Engineering(Power System, Power Electronics)</li>
-					</ul>
-					<h4>M.Tech. (Weekend/Part Time) : 3 years (6 Semesters)</h4>
-					<ul>
-						<li>Civil Engineering (Highway)</li>
-						<li>Structure, Environment</li>
-						<li>Information Technology (IT)</li>
-						<li>Computer Science</li>
-						<li>Electronics &Communication Engineering(EC Core, VLSI)</li>
-						<li>Mechanical Engineering(Thermal, Production, Mechanical Core)</li>
-						<li>Electrical Engineering(Power System, Power Electronics)</li>
-					</ul>
-					<a class="redBtn" href="#">View All Degrees & Diplomas </a>
-				</div>
-				<div class="inrContentThumb">
-					<img src="images/IMG_4543.png" alt="" />
-				</div>
-			</div>
-			<div class="inrContentWrp">
-				<h3 class="text-right">B.Tech</h3>
-				<div class="inrContentThumb">
-					<img src="images/IMG_4547.png" alt="" />
-				</div>
-				<div class="inrContent">
-					<h4>B.Tech : 4 years (8 Semesters)</h4>
-					<ul>
-						<li>B.Tech Civil Engineering</li>
-						<li>B.Tech Computer Science Engineering</li>
-						<li>B.Tech Mechanical Engineering</li>
-						<li>B.Tech Electrical Engineering</li>
-						<li>B Tech Electronics & Communication Engineering</li>
-						<li>B.Tech Information Technology</li>
-					</ul>
-					<h4>B.Tech. (Lateral Entry) : 3 years (6 Semesters)</h4>
-					<ul>
-						<li>B.Tech Civil Engineering</li>
-						<li>B.Tech Computer Science Engineering</li>
-						<li>B.Tech Mechanical Engineering</li>
-						<li>B.Tech Electrical Engineering</li>
-						<li>B Tech Electronics & Communication Engineering</li>
-						<li>B.Tech Information Technology</li>
-					</ul>
-					<a class="whiteBtn" href="#">View All Degrees & Diplomas </a>
-				</div>
-			</div>
-			<div class="inrContentWrp liteContentWrp">
-				<h3 class="text-left">M.Tech.</h3>
-				<div class="inrContent">
-					<h4>M.Tech : 2 years (4 Semesters)</h4>
-					<ul>
-						<li>Civil Engineering (Highway)</li>
-						<li>Structure, Environment</li>
-						<li>Information Technology (IT)</li>
-						<li>Computer Science</li>
-						<li>Electronics &Communication Engineering(EC Core, VLSI)</li>
-						<li>Mechanical Engineering(Thermal, Production, Mechanical Core)</li>
-						<li>Electrical Engineering(Power System, Power Electronics)</li>
-					</ul>
-					<h4>M.Tech. (Weekend/Part Time) : 3 years (6 Semesters)</h4>
-					<ul>
-						<li>Civil Engineering (Highway)</li>
-						<li>Structure, Environment</li>
-						<li>Information Technology (IT)</li>
-						<li>Computer Science</li>
-						<li>Electronics &Communication Engineering(EC Core, VLSI)</li>
-						<li>Mechanical Engineering(Thermal, Production, Mechanical Core)</li>
-						<li>Electrical Engineering(Power System, Power Electronics)</li>
-					</ul>
-					<a class="redBtn" href="#">View All Degrees & Diplomas </a>
-				</div>
-				<div class="inrContentThumb">
-					<img src="images/DSC_3401.png" alt="" />
-				</div>
-			</div>
+			<p class="para">Venkateshwara Institute of Medical Sciences (VIMS) is a premier medical institution in India, known for its excellence in education. Equipped with the state-of-the-art facilities, including advanced laboratories and technology-integrated classrooms, VIMS provides practical training through its 1200+ teaching beds. Affiliated with Shri Venkateshwara University and recognized by the NMC, our faculty comprises eminent doctors with vast teaching and administrative experience. Additionally, we offer free medical services to the underprivileged and operate rural and urban health training centers. With over 1200 general teaching beds, modern operation theaters, and 120 intensive care beds, VIMS ensures high-quality healthcare for all segments of society.</p>
+			<h2 class="sectionHeadingInner">Vision</h2>	
+			<p class="para">Venkateshwara Institute of Medical Sciences aspires to emerge as one of the leading medical institutions in the country and provide excellent educational, research, primary and super speciality care opportunities in the region. It aims to become a leader in research and develop scientific knowledge, using it for the betterment of the patient care incorporating it into practice towards the prevention of diseases. To provide evidence based clinical care to the attending patients, health services to the neighbouring community. It aims to undertake research programmes that address the prevailing health problems benefiting individuals and the community at large.</p>
+			<h2 class="sectionHeadingInner">Mission</h2>
+			<ul class="para">
+				<li>Cultivate knowledgeable, caring, and competent doctors through ethical and evidence-based healthcare practices.</li>
+				<li>Create a supportive teaching and learning environment that encourages students to develop their unique learning styles and utilize academic resources effectively.</li>
+				<li>Design a medical curriculum aimed at instilling lifelong patterns of appropriate professional behavior.</li>
+				<li>Emphasize the importance of social responsibility alongside the acquisition of medical knowledge and skills.</li>
+				<li>Foster a culture of reflection and continuous improvement among students to ensure ongoing development and growth in their medical careers.</li>
+
+			</ul>
 		</div>
 	</section>
 	<?php include 'includes/footer.php'; ?>
